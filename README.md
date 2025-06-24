@@ -30,7 +30,7 @@ Non devi essere un mago della tecnologia per usarlo! Scarica il file eseguibile,
 
 ### Crediti Speciali 💖
 
-*   **Designed by Fresko** 🎨 (Sì, proprio tu!)
+*   **Designed by Fresko** 🎨
 *   **Powered by AI** 🤖 (Un piccolo aiuto per far brillare le idee)
 *   Anno di Creazione: 2025
 
