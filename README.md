@@ -4,7 +4,8 @@ Benvenuto nel tuo nuovo centro di comando desktop personalizzato! 🎉
 
 Stanco di cercare icone e link in giro? **Mio Launcher** è qui per mettere ordine e stile nella tua giornata. Trasforma il tuo desktop in un hub elegante e super funzionale, proprio come lo vuoi tu!
 
-![Screenshot 2025-06-24 124941](https://github.com/user-attachments/assets/359342b7-fcf2-403c-8201-0503c04754e6)
+![Screenshot 2025-06-24 191515](https://github.com/user-attachments/assets/5f6440a7-e6f5-4a5e-b12c-4e04211717bf)
+
 ---
 
 ### Caratteristiche Magiche ✨
